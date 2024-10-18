@@ -3,7 +3,7 @@
 > **NOTE:**
 >  I developed this project as part of my application to become a member of OmahTI (Organisasi Mahasiswa Ahli Teknologi Informasi | **Student Organization of Information Technology**), for the 2022 Cohort at Universitas Gadjah Mada.
 
-### Deployed [Website Link](https://ramzy.netlify.app/)
+### Deployed [Website Link](https://ramzy-fe.netlify.app/)
 
 
 ## 🚧 Initial Plan & Decision Making
